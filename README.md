@@ -5,3 +5,8 @@ Here certain goals are assigned to each of the model along with some action stat
 
 
 It is basically an implementation of artificial intelligence.
+
+In order to make this work:
+1. Download the zip folder.
+2. Run the Hospital stimulation.exe
+3. You will see the 3D stimulation running.
