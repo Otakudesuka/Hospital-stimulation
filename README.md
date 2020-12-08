@@ -8,5 +8,6 @@ It is basically an implementation of artificial intelligence.
 
 In order to make this work:
 1. Download the zip folder.
-2. Run the Hospital stimulation.exe
-3. You will see the 3D stimulation running.
+2. Extract all the files.
+3. Run the Hospital stimulation.exe
+4. You will see the 3D stimulation running.
